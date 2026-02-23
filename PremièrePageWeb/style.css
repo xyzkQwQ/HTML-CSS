@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    color: black !important;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo_Afpa.jpg");
+    background-size: 150px 150px;
+    background-repeat: repeat;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 275px;
+    margin-bottom: 140px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 200px;
+}
+
+.espace {
+    margin-bottom: 100px;
+}
+
