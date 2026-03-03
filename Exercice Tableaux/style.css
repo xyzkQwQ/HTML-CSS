@@ -1,0 +1,27 @@
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+.txt {
+    flex: 1;
+    padding: 10px;
+    text-align: justify;
+}
+
+.txt2 {
+    flex: 1;
+    padding: 10px;
+    background-color: rgb(255, 222, 222);
+    text-align: left;
+}
+
+.txt img {
+    float: right;
+    width: 101px;
+}
+
+.column {
+    display: flex;
+    gap: 20px;
+}
