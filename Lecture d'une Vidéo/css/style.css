@@ -1,0 +1,15 @@
+
+/* Utilisation d'un id */
+#title-header {
+    background-color: rgb(178, 187, 201);
+
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/* Utilisation de la classe "title" */
+.title {
+    color: blueviolet;
+}
